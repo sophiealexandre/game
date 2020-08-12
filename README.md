@@ -33,3 +33,4 @@ This starter template is meant to be a kickoff spot for a full-fledged PhaserJS 
 - Support for `html`, `pug`, `md`, `js`, `jsx`, `ts`, `tsx`, `json`, `css`, `scss`, `postcss`, `less`, and various
   image filetypes, font files, and more. (See [Parcel](https://github.com/parcel-bundler/parcel)'s documentation)
 - Yarn for faster package resolution
+# game
